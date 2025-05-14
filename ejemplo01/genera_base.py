@@ -23,4 +23,3 @@ class Persona(Base):
 
 
 Base.metadata.create_all(engine)
-
