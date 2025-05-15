@@ -33,6 +33,11 @@ Considerandos:
 	* Presentar todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito".
 
 * Presentar capturas de pantalla de la base de datos en sqlite
+![image](https://github.com/user-attachments/assets/9f01d063-d0ca-478e-ae3b-3eaedd621864)
+
+![image](https://github.com/user-attachments/assets/94cd749d-01ba-486a-9e6f-d0ff1446248d)
+
+  
 * Agregar comentarios explicativos de las parte más importantes realizadas
 
 ### Importante
